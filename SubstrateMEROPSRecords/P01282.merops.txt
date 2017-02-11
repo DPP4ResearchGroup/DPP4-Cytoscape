@@ -1,0 +1,10 @@
+source	target
+P01282	thimet oligopeptidase
+P01282	thimet oligopeptidase
+P01282	thimet oligopeptidase
+P01282	YMXG peptidase
+P01282	YMXG peptidase
+P01282	YMXG peptidase
+P01282	YMXG peptidase
+P01282	YMXG peptidase
+P01282	YMXG peptidase
