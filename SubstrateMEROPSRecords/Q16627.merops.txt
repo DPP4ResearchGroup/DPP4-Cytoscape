@@ -1,3 +1,0 @@
-source	target
-Q16627	urokinase-type plasminogen activator
-Q16627	plasmin

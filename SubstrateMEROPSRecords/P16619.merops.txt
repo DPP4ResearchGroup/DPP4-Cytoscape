@@ -1,5 +1,0 @@
-source	target
-P16619	cathepsin G
-P16619	dipeptidyl-peptidase IV (eukaryote)
-P16619	elastase-2
-P16619	myeloblastin

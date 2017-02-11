@@ -1,0 +1,470 @@
+O00626	dipeptidyl-peptidase IV (eukaryote)
+O14625	matrix metallopeptidase-8
+O14625	matrix metallopeptidase-9
+O14625	matrix metallopeptidase-7
+O14625	matrix metallopeptidase-12
+O14625	dipeptidyl-peptidase IV (eukaryote)
+O14625	dipeptidyl-peptidase 8
+P00749	cathepsin L
+P00749	cathepsin B
+P00749	cathepsin G
+P00749	tryptase alpha
+P00749	hepsin
+P00749	aureolysin
+P00749	thermolysin
+P00749	thrombin
+P00749	elastase-2
+P00749	prosemin
+P00749	urokinase-type plasminogen activator
+P00749	pseudolysin
+P00749	trypsin 1
+P00749	protein E (Salmonella sp.)
+P00749	kallikrein-related peptidase 13
+P00749	polyserase-IA unit 1
+P00749	kallikrein-related peptidase 3
+P00749	kallikrein-related peptidase 2
+P00749	kallikrein-related peptidase 5
+P00749	plasma kallikrein
+P00749	matrix metallopeptidase-7
+P00749	matrix metallopeptidase-3
+P00749	matriptase
+P00749	plasmin
+P01042	aminopeptidase A
+P01042	cathepsin H
+P01042	peptidyl-dipeptidase Acer
+P01042	cathepsin K
+P01042	halylysin b
+P01042	Pz-peptidase A
+P01042	endothelin-converting enzyme 1
+P01042	ERAP2 aminopeptidase
+P01042	neprilysin-2
+P01042	aminopeptidase P1
+P01042	cathepsin D
+P01042	thimet oligopeptidase
+P01042	family S10 unassigned peptidases
+P01042	aminopeptidase Q
+P01042	neprilysin
+P01042	tryptase alpha
+P01042	lebetase
+P01042	gingipain RgpA
+P01042	dipeptidyl-peptidase II
+P01042	peptidyl-Lys metallopeptidase
+P01042	kallikrein 1
+P01042	cruzipain
+P01042	cystinyl aminopeptidase
+P01042	FALGPA-peptidase (Treponema denticola)
+P01042	endothelin-converting enzyme 2
+P01042	carboxypeptidase B2
+P01042	tripeptidyl-peptidase I
+P01042	prolyl oligopeptidase
+P01042	staphopain B
+P01042	penicillolysin
+P01042	mitochondrial intermediate peptidase
+P01042	peptidyl-dipeptidase Dcp
+P01042	angiotensin-converting enzyme peptidase unit 2
+P01042	dactylysin
+P01042	insulysin
+P01042	plinsulysin
+P01042	nephrosin
+P01042	kallikrein-related peptidase 14
+P01042	duodenase
+P01042	lysosomal Pro-Xaa carboxypeptidase
+P01042	lysyl aminopeptidase (bacteria)
+P01042	saccharolysin
+P01042	carboxypeptidase N
+P01042	arginine aminopeptidase (Streptococcus-type)
+P01042	peptidyl-dipeptidase Ance
+P01042	carboxypeptidase M
+P01042	kallikrein-related peptidase 2
+P01042	kallikrein-related peptidase 5
+P01042	meprin alpha subunit
+P01042	plasma kallikrein
+P01042	angiotensin-converting enzyme-2
+P01042	elastase-2
+P01042	bacillus Xaa-Pro aminopeptidase
+P01042	aminopeptidase P2
+P01042	tropolysin
+P01042	aminopeptidase Ap1
+P01042	gingipain Kgp
+P01042	matrix metallopeptidase-8
+P01042	eupitrilysin
+P01042	factor VII-activating peptidase
+P01042	oligopeptidase B
+P01042	Zmp1 peptidase (Mycobacterium-type)
+P01042	oligopeptidase F
+P01042	oligopeptidase E
+P01042	calpain-2
+P01042	cruzipain 2
+P01042	calpain-1
+P01042	Mername-AA273 peptidase
+P01042	aminopeptidase Ey
+P01042	dipeptidyl peptidase 4 (Aspergillus-type)
+P01042	chymase (Homo sapiens-type)
+P01042	coccolysin
+P01189	peptidyl-dipeptidase Acer
+P01189	aminopeptidase B
+P01189	yapsin-3
+P01189	yapsin-1
+P01189	PCSK4 peptidase
+P01189	cathepsin B
+P01189	aspergilloglutamic peptidase
+P01189	cathepsin D
+P01189	PCSK6 peptidase
+P01189	aminopeptidase N
+P01189	neprilysin
+P01189	leukotriene A4 hydrolase
+P01189	PCSK5 peptidase
+P01189	YMXG peptidase
+P01189	dibasic processing endopeptidase (unsequenced)
+P01189	cathepsin E
+P01189	ruberlysin
+P01189	tripeptidyl-peptidase I
+P01189	prolyl oligopeptidase
+P01189	penicillolysin
+P01189	neuron-specific aminopeptidase
+P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
+P01189	insulysin
+P01189	furin
+P01189	yapsin A
+P01189	pitrilysin
+P01189	dipeptidyl-peptidase I
+P01189	dipeptidyl-peptidase IV (eukaryote)
+P01189	meprin alpha subunit
+P01189	neuron-specific aminopeptidase-2
+P01189	dipeptidyl-peptidase III
+P01189	PCSK2 peptidase
+P01189	insect gut carboxypeptidase-2
+P01189	PCSK7 peptidase
+P01189	aminopeptidase Ap1
+P01189	gingipain Kgp
+P01189	aspartyl aminopeptidase
+P01189	eupitrilysin
+P01189	RD21 peptidase
+P01189	oligopeptidase F
+P01189	oligopeptidase E
+P01189	acylaminoacyl-peptidase
+P01189	cytosol alanyl aminopeptidase
+P01189	oligopeptidase O3
+P01189	aminopeptidase S (Staphylococcus-type)
+P01210	PCSK7 peptidase
+P01210	yapsin-1
+P01210	PCSK4 peptidase
+P01210	neprilysin-2
+P01210	PCSK6 peptidase
+P01210	carboxypeptidase A6
+P01210	oligopeptidase E
+P01210	carboxypeptidase A4
+P01210	neprilysin
+P01210	PCSK1 peptidase
+P01210	PCSK2 peptidase
+P01210	PCSK5 peptidase
+P01210	cathepsin B
+P01210	cathepsin V
+P01210	furin
+P01213	cathepsin H
+P01213	peptidyl-dipeptidase Acer
+P01213	aminopeptidase B
+P01213	cathepsin L
+P01213	aorsin
+P01213	omptin
+P01213	cathepsin B
+P01213	thimet oligopeptidase
+P01213	gametolysin
+P01213	aminopeptidase Q
+P01213	neprilysin
+P01213	YMXG peptidase
+P01213	dibasic processing endopeptidase (unsequenced)
+P01213	endothelin-converting enzyme 2
+P01213	neurolysin
+P01213	tripeptidyl-peptidase I
+P01213	carboxypeptidase A6
+P01213	carboxypeptidase A4
+P01213	penicillolysin
+P01213	neuron-specific aminopeptidase
+P01213	dactylysin
+P01213	neprilysin-2
+P01213	angiotensin-converting enzyme peptidase unit 1
+P01213	sporangin
+P01213	carboxypeptidase M
+P01213	epralysin
+P01213	carboxypeptidase E
+P01213	glycyl aminopeptidase
+P01213	leulysin
+P01213	aminopeptidase Ey
+P01213	neuron-specific aminopeptidase-2
+P01213	dipeptidyl-peptidase III
+P01213	leukotriene A4 hydrolase
+P01213	aminopeptidase N
+P01213	angiotensin-converting enzyme-2
+P01213	cystinyl aminopeptidase
+P01213	eupitrilysin
+P01213	calpain-2
+P01213	tryase
+P01213	calpain-1
+P01213	cytosol alanyl aminopeptidase
+P01275	carboxypeptidase O
+P01275	RD21 peptidase
+P01275	ALE1 peptidase
+P01275	calpain-1
+P01275	tripeptidyl-peptidase I
+P01275	calpain-2
+P01275	neprilysin
+P01275	SlSBT3 g.p. (Solanum lycopersicum)
+P01275	meprin alpha subunit
+P01275	PCSK1 peptidase
+P01275	cathepsin B-like cysteine peptidase (Raphanus sativus)
+P01275	PCSK2 peptidase
+P01275	Mername-AA083 peptidase
+P01282	YMXG peptidase
+P01282	thimet oligopeptidase
+P01286	eupitrilysin
+P01298	PCSK7 peptidase
+P01298	PCSK4 peptidase
+P01298	PCSK6 peptidase
+P01298	PCSK2 peptidase
+P01298	PCSK5 peptidase
+P01298	furin
+P01303	aminopeptidase P2
+P01303	aminopeptidase P1
+P01303	dipeptidyl-peptidase IV (eukaryote)
+P01303	plasma kallikrein
+P01303	meprin beta subunit
+P01350	PCSK7 peptidase
+P01350	aminopeptidase Ap1
+P01350	carboxypeptidase O
+P01350	meprin beta subunit
+P01350	PCSK4 peptidase
+P01350	PCSK6 peptidase
+P01350	carboxypeptidase E
+P01350	neprilysin
+P01350	PCSK1 peptidase
+P01350	PCSK2 peptidase
+P01350	PCSK5 peptidase
+P01350	serine carboxypeptidase Z (Absidia zachae) and similar
+P01350	phytaspase
+P01350	furin
+P01584	caspase-1
+P01584	caspase-4
+P01584	granzyme A
+P01584	matrix metallopeptidase-2
+P01584	streptopain
+P01584	elastase-2
+P01584	HIV-2 retropepsin
+P01584	chymase (Homo sapiens-type)
+P01584	HIV-1 retropepsin
+P01584	meprin beta subunit
+P01584	dipeptidyl-peptidase 4 (bacteria-type 2)
+P01584	cathepsin G
+P01584	trypsin 1
+P01584	elastase-1
+P01584	meprin alpha subunit
+P02778	matrix metallopeptidase-12
+P02778	dipeptidyl-peptidase IV (eukaryote)
+P02778	matrix metallopeptidase-8
+P02778	dipeptidyl-peptidase 8
+P02778	matrix metallopeptidase-9
+P04141	tripeptidyl-peptidase A
+P05019	PCSK7 peptidase
+P05019	PCSK4 peptidase
+P05019	PCSK6 peptidase
+P05019	PCSK2 peptidase
+P05019	PCSK5 peptidase
+P05019	furin
+P06307	aminopeptidase A
+P06307	tripeptidyl-peptidase II
+P06307	CYM1 peptidase (Saccharomyces cerevisiae)
+P06307	beta-lytic metallopeptidase
+P06307	neprilysin-2
+P06307	tripeptidyl-peptidase I
+P06307	family S10 unassigned peptidases
+P06307	carboxypeptidase E
+P06307	dipeptidyl-peptidase I
+P06307	calpain-2
+P06307	neprilysin
+P06307	calpain-1
+P06307	aminopeptidase Ey
+P06307	meprin alpha subunit
+P06307	meprin beta subunit
+P06307	kexin
+P06307	phytaspase
+P06307	angiotensin-converting enzyme peptidase unit 1
+P07339	cathepsin D
+P07339	RC1339 g.p. (Rickettsia conorii)
+P07477	cathepsin L
+P07477	mesotrypsin
+P07477	matrix metallopeptidase-2
+P07477	cationic trypsin (Homo sapiens-type)
+P07477	HIV-1 retropepsin
+P07477	chymotrypsin C
+P07477	penicillopepsin
+P07477	cathepsin S
+P07477	trypsin 1
+P07492	dipeptidyl-peptidase IV (eukaryote)
+P07492	meprin alpha subunit
+P07492	meprin beta subunit
+P07858	cathepsin L
+P07858	cathepsin B
+P07858	matrix metallopeptidase-2
+P07858	meprin alpha subunit
+P07858	meprin beta subunit
+P07858	trypsin 1
+P07988	cathepsin H
+P07988	gastricsin
+P07988	napsin A
+P07988	trypsin 1
+P08949	beta-lytic metallopeptidase
+P08949	dactylysin
+P08949	dipeptidyl-peptidase 11 (Porphyromonas gingivalis-type)
+P08949	tripeptidyl-peptidase I
+P09681	peptidyl-Lys metallopeptidase
+P09683	meprin alpha subunit
+P09683	meprin beta subunit
+P10082	meprin beta subunit
+P10124	granzyme B (Homo sapiens-type)
+P10124	trypsin 1
+P10163	furin
+P10645	aminopeptidase A
+P10645	plasmin
+P12644	PCSK7 peptidase
+P12644	PCSK4 peptidase
+P12644	PCSK6 peptidase
+P12644	PCSK2 peptidase
+P12644	PCSK5 peptidase
+P12644	furin
+P13501	dipeptidyl-peptidase IV (eukaryote)
+P13501	dipeptidyl-peptidase 4 (bacteria-type 2)
+P16619	cathepsin G
+P16619	dipeptidyl-peptidase IV (eukaryote)
+P16619	elastase-2
+P16619	myeloblastin
+P16860	PCSK7 peptidase
+P16860	PCSK4 peptidase
+P16860	PCSK6 peptidase
+P16860	neprilysin
+P16860	meprin alpha subunit
+P16860	PCSK2 peptidase
+P16860	PCSK5 peptidase
+P16860	furin
+P19875	dipeptidyl-peptidase IV (eukaryote)
+P20366	peptidyl-dipeptidase Acer
+P20366	aminopeptidase B
+P20366	Pz-peptidase A
+P20366	neprilysin-2
+P20366	Kell blood-group peptidase
+P20366	ALE1 peptidase
+P20366	thimet oligopeptidase
+P20366	aminopeptidase N
+P20366	neprilysin
+P20366	lebetase
+P20366	neprilysin-4 (Drosophila melanogaster)
+P20366	dipeptidyl-peptidase II
+P20366	peptidyl-glycinamidase
+P20366	prolyl oligopeptidase
+P20366	penicillolysin
+P20366	lysyl aminopeptidase (bacteria)
+P20366	calpain-1
+P20366	coccolysin
+P20366	FALGPA-peptidase (Treponema denticola)
+P20366	SlSBT3 g.p. (Solanum lycopersicum)
+P20366	angiotensin-converting enzyme peptidase unit 2
+P20366	dactylysin
+P20366	plinsulysin
+P20366	duodenase
+P20366	endothelin-converting enzyme 1
+P20366	endothelin-converting enzyme 2
+P20366	pitrilysin
+P20366	cathepsin D
+P20366	arginine aminopeptidase (Streptococcus-type)
+P20366	cathepsin E
+P20366	aminopeptidase Ey
+P20366	kallikrein-related peptidase 4
+P20366	aspergilloglutamic peptidase
+P20366	aminopeptidase P1
+P20366	nephrosin
+P20366	matrix metallopeptidase-8
+P20366	matrix metallopeptidase-9
+P20366	eupitrilysin
+P20366	Zmp1 peptidase (Mycobacterium-type)
+P20366	matrix metallopeptidase-3
+P20366	kallikrein 1-related peptidase c2 (Rattus norvegicus)
+P20366	oligopeptidase F
+P20366	calpain-2
+P20366	substance P endopeptidase (of CSF)
+P20366	dipeptidyl-peptidase 4 (bacteria-type 2)
+P20366	dipeptidyl-peptidase IV (eukaryote)
+P20366	dentilisin
+P20366	chymase (Homo sapiens-type)
+P20366	meprin alpha subunit
+P20783	PCSK7 peptidase
+P20783	PCSK4 peptidase
+P20783	PCSK6 peptidase
+P20783	kallikrein-related peptidase 4
+P20783	PCSK2 peptidase
+P20783	PCSK5 peptidase
+P20783	furin
+P23560	PCSK7 peptidase
+P23560	PCSK4 peptidase
+P23560	PCSK6 peptidase
+P23560	site-1 peptidase
+P23560	kallikrein-related peptidase 4
+P23560	PCSK2 peptidase
+P23560	PCSK5 peptidase
+P23560	plasmin
+P23560	furin
+P28799	membrane-type matrix metallopeptidase-1
+P28799	meprin alpha subunit
+P28799	meprin beta subunit
+P39905	kallikrein-related peptidase 4
+P43026	matrix metallopeptidase-13
+P43026	furin
+P48061	carboxypeptidase N
+P48061	carboxypeptidase M
+P48061	matrix metallopeptidase-9
+P48061	matrix metallopeptidase-2
+P48061	cathepsin G
+P48061	cathepsin X
+P48061	dipeptidyl-peptidase IV (eukaryote)
+P48061	dipeptidyl-peptidase 8
+P51671	dipeptidyl-peptidase IV (eukaryote)
+P60568	dipeptidyl-peptidase 4 (bacteria-type 2)
+P80162	lysyl endopeptidase (bacteria)
+P80162	dipeptidyl-peptidase IV (eukaryote)
+P80162	matrix metallopeptidase-8
+P80162	matrix metallopeptidase-9
+P80303	caspase-1
+P80303	caspase-2
+P80303	lysyl endopeptidase (bacteria)
+P80303	trypsin 1
+P80303	caspase-6
+Q07325	matrix metallopeptidase-7
+Q07325	matrix metallopeptidase-12
+Q07325	dipeptidyl-peptidase IV (eukaryote)
+Q07325	matrix metallopeptidase-9
+Q15726	matrix metallopeptidase-9
+Q15726	membrane-type matrix metallopeptidase-1
+Q15726	membrane-type matrix metallopeptidase-3
+Q15726	matrix metallopeptidase-2
+Q15726	membrane-type matrix metallopeptidase-5
+Q15726	aminopeptidase Q
+Q16627	urokinase-type plasminogen activator
+Q16627	plasmin
+Q969H8	cathepsin B
+Q969H8	cathepsin S
+Q969H8	cathepsin L
+Q969H8	trypsin 1
+Q9GZV9	PCSK7 peptidase
+Q9GZV9	PCSK4 peptidase
+Q9GZV9	PCSK6 peptidase
+Q9GZV9	PCSK2 peptidase
+Q9GZV9	PCSK5 peptidase
+Q9GZV9	furin
+Q9UBX7	kallikrein-related peptidase 14
+Q9UBX7	kallikrein-related peptidase 11
+Q9UBX7	kallikrein-related peptidase 13
+Q9UBX7	kallikrein-related peptidase 12
+Q9UBX7	kallikrein-related peptidase 3
+Q9UBX7	kallikrein-related peptidase 2
+Q9UBX7	kallikrein-related peptidase 5
+Q9UBX7	kallikrein-related peptidase 4
+Q9UBX7	kallikrein-related peptidase 8
+Q9UBX7	plasmin

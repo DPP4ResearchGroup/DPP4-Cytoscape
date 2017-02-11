@@ -1,3 +1,0 @@
-source	target
-P10645	aminopeptidase A
-P10645	plasmin

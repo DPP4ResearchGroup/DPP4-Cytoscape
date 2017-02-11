@@ -1,5 +1,0 @@
-source	target
-Q07325	matrix metallopeptidase-7
-Q07325	matrix metallopeptidase-12
-Q07325	dipeptidyl-peptidase IV (eukaryote)
-Q07325	matrix metallopeptidase-9

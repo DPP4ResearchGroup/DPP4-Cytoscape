@@ -1,7 +1,0 @@
-source	target
-Q15726	matrix metallopeptidase-9
-Q15726	membrane-type matrix metallopeptidase-1
-Q15726	membrane-type matrix metallopeptidase-3
-Q15726	matrix metallopeptidase-2
-Q15726	membrane-type matrix metallopeptidase-5
-Q15726	aminopeptidase Q

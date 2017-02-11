@@ -1,5 +1,0 @@
-source	target
-P08949	beta-lytic metallopeptidase
-P08949	dactylysin
-P08949	dipeptidyl-peptidase 11 (Porphyromonas gingivalis-type)
-P08949	tripeptidyl-peptidase I

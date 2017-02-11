@@ -1,2 +1,0 @@
-source	target
-P51671	dipeptidyl-peptidase IV (eukaryote)

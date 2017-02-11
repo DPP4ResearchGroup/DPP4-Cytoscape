@@ -1,7 +1,0 @@
-source	target
-Q9GZV9	PCSK7 peptidase
-Q9GZV9	PCSK4 peptidase
-Q9GZV9	PCSK6 peptidase
-Q9GZV9	PCSK2 peptidase
-Q9GZV9	PCSK5 peptidase
-Q9GZV9	furin

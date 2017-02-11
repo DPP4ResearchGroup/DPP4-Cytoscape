@@ -1,7 +1,0 @@
-source	target
-O14625	matrix metallopeptidase-8
-O14625	matrix metallopeptidase-9
-O14625	matrix metallopeptidase-7
-O14625	matrix metallopeptidase-12
-O14625	dipeptidyl-peptidase IV (eukaryote)
-O14625	dipeptidyl-peptidase 8

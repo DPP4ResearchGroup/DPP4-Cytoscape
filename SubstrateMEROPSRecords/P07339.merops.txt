@@ -1,3 +1,0 @@
-source	target
-P07339	cathepsin D
-P07339	RC1339 g.p. (Rickettsia conorii)

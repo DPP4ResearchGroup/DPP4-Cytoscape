@@ -1,8 +1,0 @@
-source	target
-P20783	PCSK7 peptidase
-P20783	PCSK4 peptidase
-P20783	PCSK6 peptidase
-P20783	kallikrein-related peptidase 4
-P20783	PCSK2 peptidase
-P20783	PCSK5 peptidase
-P20783	furin
