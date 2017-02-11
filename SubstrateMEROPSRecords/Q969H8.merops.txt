@@ -1,0 +1,7 @@
+source	target
+Q969H8	cathepsin B
+Q969H8	cathepsin L
+Q969H8	cathepsin S
+Q969H8	trypsin 1
+Q969H8	trypsin 1
+Q969H8	trypsin 1

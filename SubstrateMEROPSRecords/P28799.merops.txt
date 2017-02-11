@@ -1,0 +1,4 @@
+source	target
+P28799	meprin alpha subunit
+P28799	meprin beta subunit
+P28799	membrane-type matrix metallopeptidase-1

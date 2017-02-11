@@ -1,0 +1,7 @@
+source	target
+P05019	furin
+P05019	PCSK2 peptidase
+P05019	PCSK4 peptidase
+P05019	PCSK6 peptidase
+P05019	PCSK5 peptidase
+P05019	PCSK7 peptidase

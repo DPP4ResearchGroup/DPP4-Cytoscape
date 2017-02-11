@@ -1,0 +1,37 @@
+source	target
+P00749	cathepsin L
+P00749	urokinase-type plasminogen activator
+P00749	thermolysin
+P00749	aureolysin
+P00749	aureolysin
+P00749	cathepsin L
+P00749	cathepsin L
+P00749	cathepsin L
+P00749	plasmin
+P00749	matrix metallopeptidase-3
+P00749	matrix metallopeptidase-7
+P00749	thrombin
+P00749	protein E (Salmonella sp.)
+P00749	cathepsin L
+P00749	cathepsin B
+P00749	thermolysin
+P00749	pseudolysin
+P00749	aureolysin
+P00749	kallikrein-related peptidase 5
+P00749	cathepsin G
+P00749	tryptase alpha
+P00749	trypsin 1
+P00749	kallikrein-related peptidase 2
+P00749	kallikrein-related peptidase 3
+P00749	plasma kallikrein
+P00749	hepsin
+P00749	plasmin
+P00749	prosemin
+P00749	matriptase
+P00749	polyserase-IA unit 1
+P00749	elastase-2
+P00749	cathepsin L
+P00749	cathepsin L
+P00749	kallikrein-related peptidase 13
+P00749	cathepsin L
+P00749	cathepsin L

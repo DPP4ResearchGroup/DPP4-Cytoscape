@@ -1,0 +1,11 @@
+source	target
+P16860	furin
+P16860	PCSK2 peptidase
+P16860	PCSK4 peptidase
+P16860	PCSK6 peptidase
+P16860	PCSK5 peptidase
+P16860	PCSK7 peptidase
+P16860	neprilysin
+P16860	meprin alpha subunit
+P16860	meprin alpha subunit
+P16860	neprilysin

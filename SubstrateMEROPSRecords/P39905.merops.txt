@@ -1,0 +1,2 @@
+source	target
+P39905	kallikrein-related peptidase 4

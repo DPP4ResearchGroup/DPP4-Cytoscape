@@ -1,0 +1,4 @@
+source	target
+P43026	furin
+P43026	furin
+P43026	matrix metallopeptidase-13

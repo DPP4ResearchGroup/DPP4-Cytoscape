@@ -1,0 +1,12 @@
+source	target
+P07858	meprin alpha subunit
+P07858	meprin beta subunit
+P07858	cathepsin B
+P07858	cathepsin B
+P07858	matrix metallopeptidase-2
+P07858	cathepsin B
+P07858	trypsin 1
+P07858	cathepsin L
+P07858	matrix metallopeptidase-2
+P07858	cathepsin B
+P07858	trypsin 1
