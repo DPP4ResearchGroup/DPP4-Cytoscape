@@ -1,0 +1,2 @@
+source	target
+P10082	meprin beta subunit

@@ -1,0 +1,6 @@
+source	target
+P80303	caspase-1
+P80303	caspase-2
+P80303	lysyl endopeptidase (bacteria)
+P80303	trypsin 1
+P80303	caspase-6
