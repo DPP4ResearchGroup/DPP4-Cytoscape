@@ -1,0 +1,2 @@
+P09683	meprin alpha subunit
+P09683	meprin beta subunit

@@ -1,0 +1,3 @@
+P07492	dipeptidyl-peptidase IV (eukaryote)
+P07492	meprin alpha subunit
+P07492	meprin beta subunit

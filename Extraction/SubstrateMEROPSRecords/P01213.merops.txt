@@ -1,0 +1,41 @@
+P01213	cathepsin H
+P01213	peptidyl-dipeptidase Acer
+P01213	aminopeptidase B
+P01213	cathepsin L
+P01213	aorsin
+P01213	omptin
+P01213	cathepsin B
+P01213	thimet oligopeptidase
+P01213	gametolysin
+P01213	aminopeptidase Q
+P01213	neprilysin
+P01213	YMXG peptidase
+P01213	dibasic processing endopeptidase (unsequenced)
+P01213	endothelin-converting enzyme 2
+P01213	neurolysin
+P01213	tripeptidyl-peptidase I
+P01213	carboxypeptidase A6
+P01213	carboxypeptidase A4
+P01213	penicillolysin
+P01213	neuron-specific aminopeptidase
+P01213	dactylysin
+P01213	neprilysin-2
+P01213	angiotensin-converting enzyme peptidase unit 1
+P01213	sporangin
+P01213	carboxypeptidase M
+P01213	epralysin
+P01213	carboxypeptidase E
+P01213	glycyl aminopeptidase
+P01213	leulysin
+P01213	aminopeptidase Ey
+P01213	neuron-specific aminopeptidase-2
+P01213	dipeptidyl-peptidase III
+P01213	leukotriene A4 hydrolase
+P01213	aminopeptidase N
+P01213	angiotensin-converting enzyme-2
+P01213	cystinyl aminopeptidase
+P01213	eupitrilysin
+P01213	calpain-2
+P01213	tryase
+P01213	calpain-1
+P01213	cytosol alanyl aminopeptidase

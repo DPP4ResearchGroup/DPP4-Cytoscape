@@ -1,0 +1,72 @@
+P01042	aminopeptidase A
+P01042	cathepsin H
+P01042	peptidyl-dipeptidase Acer
+P01042	cathepsin K
+P01042	halylysin b
+P01042	Pz-peptidase A
+P01042	endothelin-converting enzyme 1
+P01042	ERAP2 aminopeptidase
+P01042	neprilysin-2
+P01042	aminopeptidase P1
+P01042	cathepsin D
+P01042	thimet oligopeptidase
+P01042	family S10 unassigned peptidases
+P01042	aminopeptidase Q
+P01042	neprilysin
+P01042	tryptase alpha
+P01042	lebetase
+P01042	gingipain RgpA
+P01042	dipeptidyl-peptidase II
+P01042	peptidyl-Lys metallopeptidase
+P01042	kallikrein 1
+P01042	cruzipain
+P01042	cystinyl aminopeptidase
+P01042	FALGPA-peptidase (Treponema denticola)
+P01042	endothelin-converting enzyme 2
+P01042	carboxypeptidase B2
+P01042	tripeptidyl-peptidase I
+P01042	prolyl oligopeptidase
+P01042	staphopain B
+P01042	penicillolysin
+P01042	mitochondrial intermediate peptidase
+P01042	peptidyl-dipeptidase Dcp
+P01042	angiotensin-converting enzyme peptidase unit 2
+P01042	dactylysin
+P01042	insulysin
+P01042	plinsulysin
+P01042	nephrosin
+P01042	kallikrein-related peptidase 14
+P01042	duodenase
+P01042	lysosomal Pro-Xaa carboxypeptidase
+P01042	lysyl aminopeptidase (bacteria)
+P01042	saccharolysin
+P01042	carboxypeptidase N
+P01042	arginine aminopeptidase (Streptococcus-type)
+P01042	peptidyl-dipeptidase Ance
+P01042	carboxypeptidase M
+P01042	kallikrein-related peptidase 2
+P01042	kallikrein-related peptidase 5
+P01042	meprin alpha subunit
+P01042	plasma kallikrein
+P01042	angiotensin-converting enzyme-2
+P01042	elastase-2
+P01042	bacillus Xaa-Pro aminopeptidase
+P01042	aminopeptidase P2
+P01042	tropolysin
+P01042	aminopeptidase Ap1
+P01042	gingipain Kgp
+P01042	matrix metallopeptidase-8
+P01042	eupitrilysin
+P01042	factor VII-activating peptidase
+P01042	oligopeptidase B
+P01042	Zmp1 peptidase (Mycobacterium-type)
+P01042	oligopeptidase F
+P01042	oligopeptidase E
+P01042	calpain-2
+P01042	cruzipain 2
+P01042	calpain-1
+P01042	Mername-AA273 peptidase
+P01042	aminopeptidase Ey
+P01042	dipeptidyl peptidase 4 (Aspergillus-type)
+P01042	chymase (Homo sapiens-type)
+P01042	coccolysin

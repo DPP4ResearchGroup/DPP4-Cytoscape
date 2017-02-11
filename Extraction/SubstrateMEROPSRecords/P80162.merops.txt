@@ -1,0 +1,4 @@
+P80162	lysyl endopeptidase (bacteria)
+P80162	dipeptidyl-peptidase IV (eukaryote)
+P80162	matrix metallopeptidase-8
+P80162	matrix metallopeptidase-9

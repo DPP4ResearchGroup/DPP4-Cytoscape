@@ -1,0 +1,6 @@
+P12644	PCSK7 peptidase
+P12644	PCSK4 peptidase
+P12644	PCSK6 peptidase
+P12644	PCSK2 peptidase
+P12644	PCSK5 peptidase
+P12644	furin

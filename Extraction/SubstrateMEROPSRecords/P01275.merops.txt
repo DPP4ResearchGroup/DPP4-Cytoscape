@@ -1,0 +1,13 @@
+P01275	carboxypeptidase O
+P01275	RD21 peptidase
+P01275	ALE1 peptidase
+P01275	calpain-1
+P01275	tripeptidyl-peptidase I
+P01275	calpain-2
+P01275	neprilysin
+P01275	SlSBT3 g.p. (Solanum lycopersicum)
+P01275	meprin alpha subunit
+P01275	PCSK1 peptidase
+P01275	cathepsin B-like cysteine peptidase (Raphanus sativus)
+P01275	PCSK2 peptidase
+P01275	Mername-AA083 peptidase

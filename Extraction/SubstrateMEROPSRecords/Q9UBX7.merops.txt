@@ -1,0 +1,10 @@
+Q9UBX7	kallikrein-related peptidase 14
+Q9UBX7	kallikrein-related peptidase 11
+Q9UBX7	kallikrein-related peptidase 13
+Q9UBX7	kallikrein-related peptidase 12
+Q9UBX7	kallikrein-related peptidase 3
+Q9UBX7	kallikrein-related peptidase 2
+Q9UBX7	kallikrein-related peptidase 5
+Q9UBX7	kallikrein-related peptidase 4
+Q9UBX7	kallikrein-related peptidase 8
+Q9UBX7	plasmin

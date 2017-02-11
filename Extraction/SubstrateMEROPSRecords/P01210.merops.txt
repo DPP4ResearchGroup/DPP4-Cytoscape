@@ -1,0 +1,15 @@
+P01210	PCSK7 peptidase
+P01210	yapsin-1
+P01210	PCSK4 peptidase
+P01210	neprilysin-2
+P01210	PCSK6 peptidase
+P01210	carboxypeptidase A6
+P01210	oligopeptidase E
+P01210	carboxypeptidase A4
+P01210	neprilysin
+P01210	PCSK1 peptidase
+P01210	PCSK2 peptidase
+P01210	PCSK5 peptidase
+P01210	cathepsin B
+P01210	cathepsin V
+P01210	furin

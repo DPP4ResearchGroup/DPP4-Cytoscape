@@ -1,0 +1,5 @@
+P02778	matrix metallopeptidase-12
+P02778	dipeptidyl-peptidase IV (eukaryote)
+P02778	matrix metallopeptidase-8
+P02778	dipeptidyl-peptidase 8
+P02778	matrix metallopeptidase-9

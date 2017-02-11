@@ -1,0 +1,2 @@
+P01282	YMXG peptidase
+P01282	thimet oligopeptidase
