@@ -1,122 +1,46 @@
 source	target
-P01189	yapsin A
-P01189	yapsin A
-P01189	RD21 peptidase
-P01189	neprilysin
-P01189	aminopeptidase Ap1
-P01189	acylaminoacyl-peptidase
-P01189	pitrilysin
-P01189	aminopeptidase Ap1
-P01189	penicillolysin
-P01189	meprin alpha subunit
-P01189	aminopeptidase Ap1
-P01189	aspergilloglutamic peptidase
-P01189	oligopeptidase F
-P01189	meprin alpha subunit
-P01189	neprilysin
-P01189	aminopeptidase Ap1
-P01189	neprilysin
-P01189	aspartyl aminopeptidase
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
-P01189	oligopeptidase F
-P01189	neprilysin
-P01189	YMXG peptidase
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
-P01189	oligopeptidase F
-P01189	neprilysin
-P01189	YMXG peptidase
-P01189	penicillolysin
-P01189	dipeptidyl-peptidase III
-P01189	RD21 peptidase
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
-P01189	neprilysin
-P01189	oligopeptidase F
-P01189	meprin alpha subunit
-P01189	neprilysin
-P01189	penicillolysin
-P01189	oligopeptidase F
-P01189	meprin alpha subunit
-P01189	neprilysin
-P01189	prolyl oligopeptidase
-P01189	aspergilloglutamic peptidase
-P01189	RD21 peptidase
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
+P01189	peptidyl-dipeptidase Acer
+P01189	aminopeptidase B
+P01189	yapsin-3
 P01189	yapsin-1
-P01189	gingipain Kgp
-P01189	pitrilysin
-P01189	aspergilloglutamic peptidase
-P01189	yapsin-1
-P01189	aspergilloglutamic peptidase
-P01189	neprilysin
-P01189	furin
-P01189	PCSK2 peptidase
 P01189	PCSK4 peptidase
+P01189	cathepsin B
+P01189	aspergilloglutamic peptidase
+P01189	cathepsin D
 P01189	PCSK6 peptidase
+P01189	aminopeptidase N
+P01189	neprilysin
+P01189	leukotriene A4 hydrolase
 P01189	PCSK5 peptidase
-P01189	PCSK7 peptidase
-P01189	neprilysin
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
-P01189	RD21 peptidase
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
-P01189	gingipain Kgp
-P01189	neprilysin
-P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
-P01189	neprilysin
-P01189	aspergilloglutamic peptidase
-P01189	aspergilloglutamic peptidase
-P01189	aspergilloglutamic peptidase
-P01189	yapsin A
-P01189	yapsin A
-P01189	furin
-P01189	PCSK2 peptidase
-P01189	PCSK4 peptidase
-P01189	PCSK6 peptidase
-P01189	PCSK5 peptidase
-P01189	PCSK7 peptidase
+P01189	YMXG peptidase
 P01189	dibasic processing endopeptidase (unsequenced)
-P01189	yapsin-1
+P01189	cathepsin E
+P01189	ruberlysin
+P01189	tripeptidyl-peptidase I
+P01189	prolyl oligopeptidase
+P01189	penicillolysin
+P01189	neuron-specific aminopeptidase
+P01189	cathepsin B-like cysteine peptidase (Raphanus sativus)
+P01189	insulysin
+P01189	furin
+P01189	yapsin A
+P01189	pitrilysin
 P01189	dipeptidyl-peptidase I
 P01189	dipeptidyl-peptidase IV (eukaryote)
-P01189	yapsin-1
-P01189	dibasic processing endopeptidase (unsequenced)
-P01189	yapsin A
-P01189	aminopeptidase B
-P01189	furin
-P01189	PCSK2 peptidase
-P01189	PCSK4 peptidase
-P01189	PCSK6 peptidase
-P01189	PCSK5 peptidase
-P01189	PCSK7 peptidase
-P01189	aminopeptidase N
-P01189	leukotriene A4 hydrolase
-P01189	cytosol alanyl aminopeptidase
-P01189	aminopeptidase S (Staphylococcus-type)
-P01189	neuron-specific aminopeptidase
+P01189	meprin alpha subunit
 P01189	neuron-specific aminopeptidase-2
-P01189	oligopeptidase E
-P01189	aminopeptidase S (Staphylococcus-type)
-P01189	cathepsin B
-P01189	oligopeptidase E
-P01189	peptidyl-dipeptidase Acer
-P01189	ruberlysin
-P01189	oligopeptidase O3
-P01189	eupitrilysin
-P01189	tripeptidyl-peptidase I
-P01189	eupitrilysin
-P01189	yapsin-3
-P01189	gingipain Kgp
-P01189	eupitrilysin
-P01189	eupitrilysin
-P01189	cathepsin D
-P01189	cathepsin E
-P01189	insulysin
-P01189	eupitrilysin
-P01189	pitrilysin
-P01189	insulysin
-P01189	gingipain Kgp
-P01189	pitrilysin
-P01189	eupitrilysin
-P01189	gingipain Kgp
-P01189	yapsin-1
-P01189	gingipain Kgp
+P01189	dipeptidyl-peptidase III
+P01189	PCSK2 peptidase
 P01189	insect gut carboxypeptidase-2
+P01189	PCSK7 peptidase
+P01189	aminopeptidase Ap1
+P01189	gingipain Kgp
+P01189	aspartyl aminopeptidase
+P01189	eupitrilysin
+P01189	RD21 peptidase
+P01189	oligopeptidase F
+P01189	oligopeptidase E
+P01189	acylaminoacyl-peptidase
+P01189	cytosol alanyl aminopeptidase
+P01189	oligopeptidase O3
+P01189	aminopeptidase S (Staphylococcus-type)

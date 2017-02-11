@@ -1,3 +1,2 @@
 source	target
 O00626	dipeptidyl-peptidase IV (eukaryote)
-O00626	dipeptidyl-peptidase IV (eukaryote)

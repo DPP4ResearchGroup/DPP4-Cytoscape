@@ -39,9 +39,14 @@ if __name__ == "__main__":
 	wfile = open (writefilefullpath,"w")
     		
 	wfile.write("source\ttarget\n")
+	peptidases = []
 	for dataset in datasets:
 		for index, item in dataset:
 			if ((index == "Peptidase") & (item.lower() != "unknown peptidase")) :
-				wfile.write (SubID+"\t"+str(item)+"\n")
+				peptidases.append(item)
+	peptidases = set(peptidases)
+	print peptidases
+	for peptidase in peptidases:
+		wfile.write (SubID+"\t"+str(peptidase)+"\n")
 
 	wfile.close()

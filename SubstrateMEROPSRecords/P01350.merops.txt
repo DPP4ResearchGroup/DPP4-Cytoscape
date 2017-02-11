@@ -1,28 +1,15 @@
 source	target
-P01350	furin
-P01350	PCSK1 peptidase
-P01350	PCSK2 peptidase
+P01350	PCSK7 peptidase
+P01350	aminopeptidase Ap1
+P01350	carboxypeptidase O
+P01350	meprin beta subunit
 P01350	PCSK4 peptidase
 P01350	PCSK6 peptidase
-P01350	PCSK5 peptidase
-P01350	PCSK7 peptidase
+P01350	carboxypeptidase E
+P01350	neprilysin
 P01350	PCSK1 peptidase
 P01350	PCSK2 peptidase
-P01350	neprilysin
-P01350	meprin beta subunit
-P01350	meprin beta subunit
-P01350	meprin beta subunit
-P01350	meprin beta subunit
-P01350	neprilysin
-P01350	neprilysin
-P01350	aminopeptidase Ap1
+P01350	PCSK5 peptidase
 P01350	serine carboxypeptidase Z (Absidia zachae) and similar
-P01350	aminopeptidase Ap1
-P01350	serine carboxypeptidase Z (Absidia zachae) and similar
-P01350	neprilysin
 P01350	phytaspase
-P01350	serine carboxypeptidase Z (Absidia zachae) and similar
-P01350	carboxypeptidase O
-P01350	carboxypeptidase E
-P01350	carboxypeptidase E
-P01350	PCSK1 peptidase
+P01350	furin
